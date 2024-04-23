@@ -5,6 +5,6 @@
 ![3](https://github.com/b-fakhar/ChatBot-LangChain-RAG-LLM/assets/59096353/2cdb9bea-7486-4792-bbe2-02bb36f6676c)
 
 
-[![Video Title](http://img.youtube.com/vi/Pb4PG5IuNeT7ZyjR/0.jpg)](http://www.youtube.com/watch?v=Pb4PG5IuNeT7ZyjR)
+[![Watch the Youtube Tutorial Here:](http://img.youtube.com/vi/dXxQ0LR-3Hg/0.jpg)](http://www.youtube.com/watch?v=dXxQ0LR-3Hg)
 
 
