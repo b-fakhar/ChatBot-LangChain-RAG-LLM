@@ -1,5 +1,8 @@
 # -*- coding: utf-8 -*-
-"""utils.ipynb
+"""
+Script for dataloader, training, evaluating, and saving finetuned, multi-label classification model based on pretrained
+BERT parameters.
+
 Programmed by Behnaaz Fakhar <fakhar.behnaz@gmail.com>
 *    2023-02-21 Initial coding
 """
